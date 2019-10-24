@@ -1,1 +1,73 @@
-<mxfile host="www.draw.io" modified="2019-10-09T06:44:52.478Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="q67coQCUwiZ1cp87Nvl4" version="12.0.3" type="github" pages="1"><diagram id="MCcs-KJA6Zhg1AuJ8k5i" name="Page-1">7VrbkuI2EP0aHqF8Bx6XGZJUJbubFJvazNOWsIWtrGw5sswlX5+WLeObhjAbDDthXsBqqWWpT3cftWBkP8T7HzlKo/cswHRkGcF+ZD+OLMu0PQO+pORQSqauXQpCTgI1qBasyN9YCZVemJMAZ62BgjEqSNoW+ixJsC9aMsQ527WHbRhtvzVFIe4JVj6ifelnEoiolM6saS3/CZMwqt5sevOyJ0bVYLWTLEIB2zVE9nJkP3DGRPkU7x8wlcar7FLq/fBM73FhHCfiHIWPy/UT+3n/++eVYX2Id1/e/+Z9GrtqbeJQbRgHsH/VZFxELGQJostauuAsTwIsZzWgVY/5hbEUhCYI/8RCHBSYKBcMRJGIqerFeyL+kOoTV7WeGj2PezVz0ThUjUTwQ0NJNp+afbVa0ar0yv3JTT1rNiXKWM59fMJWlfshHmJxYpxzBBeiArMYw3pAj2OKBNm214GUe4bHcTWC8KBAfAGgat4torl608jyKCx3sWGw4SbU3l85qzrGWQHWOxhgeum+7oSnUH77LE4JxeN1TiCC1JSwwnLWckzPl9qesouIwKsUFUbeQbpoe4VaOOYC709j1betUjhmDZVsTFe1d3XomlU8Ro2wrbLUxeGwNHB0jJQJzr4ek4vVNgokjVSOi/ehzK+TDWU7P0JcTFCSMAEOxZIvUgdREiYwkOKNhIKiNaa/sozIASDm5V4XKSOJwHy5BYtm6h0qdaJ1sSLjMlDYnt2Gwu5D4WqQMI2hoLD/e2TMdJFhTuAJxdKbk3WWFj1GmssF9cQZ346sB0mHOAZcJG0FuJyrWMmaV7NaullVEJ7Ss3V6KmgBPv9rwXcaRUenGLMtLhhXfkBfSaCYn5sAwH9E26E5Bns2XK1wyAJqdzFyH6UnA1+UNi8UOo4tnZIAPb9TYiE5Z5HBzkgSfioICBLwRVzYMTsu7PRd2NJlk+lQLjx/Y+uz2do5k61nt2RrZyC2zmKglLHAmXgtVG3N3RtTtfdG1QqKaR+K61L19JpULdNDTY3AcJzFXborpugonsXYPJcsX4SjnBMCEmhKPUkaR9kLaFyxMVBoTkVFyxynkNQ7S70/ctbljyMRN73WHcppTbNn4Td2Psm6Z7Czaei94ErFtHdLSM0GoDW8/wZpC9Aa3+8IUveWkM6GOnHlvo/x+TcjEYvXeXado5bRPmo5mjrmWNs0U+VssFRpDIRCmq8pyaLxhvEx2IxsgI2KY9UrOQV71q0vrEzdjdUlzl5Py9VdHEyseRtSVxNtutO0NRiiuouv+yhs3E50Gbe+gzQvUPBro0uVBnUVU9QGGyFrmJTjMZArlrVGfYEHD7w08Iuz5KuOT6fDhp7mYtrRseFwAeoOxIYByVKKDuOqRPw+OdCxOseTm/9oYw51//Dh412E2PFH/yOi1qRfnV83xnTn/rsgQbcLhnXr2z1z/mx4gTsm3x5eKt9JbkOEymKsdc8Gy5KTI0pzXt6jddJi+fb/Y0R6nTrD8fpOYOty7DcEJDTrP7UUfY2/BtnLfwA=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-24T08:46:17.378Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="_qGdKdg6T1GujI1XLc-2" version="12.1.4" type="github" pages="1">
+  <diagram id="MCcs-KJA6Zhg1AuJ8k5i" name="Page-1">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OEbYoKxUWS02Nmw_MQ6T-1" target="OEbYoKxUWS02Nmw_MQ6T-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;compile-build&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="150" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="363" y="130" width="50" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1.&amp;nbsp; pull&amp;nbsp; srv, demon code;&lt;br&gt;2.&amp;nbsp; compile code;&lt;br&gt;3.&amp;nbsp; build package;&lt;br&gt;4.&amp;nbsp; move to tmp folder&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="413" y="140" width="220" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OEbYoKxUWS02Nmw_MQ6T-4" target="OEbYoKxUWS02Nmw_MQ6T-8" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;smoke-test&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="295" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="363" y="275" width="50" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1.&amp;nbsp; get package from tmp folder;&amp;nbsp;&lt;br&gt;2.&amp;nbsp; run smoke testing test case;&lt;br&gt;3.&amp;nbsp; move result to report folder;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="413" y="295" width="270" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OEbYoKxUWS02Nmw_MQ6T-8" target="OEbYoKxUWS02Nmw_MQ6T-15" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RFTHflH9JAZJq0lEbl_8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEbYoKxUWS02Nmw_MQ6T-8" target="RFTHflH9JAZJq0lEbl_8-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;succeed&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="440" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;publish-for-verification&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="700" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;YES&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="290" y="540" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="355" y="690" width="50" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;move package to ftp pre-release folder for verification&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="400" y="715" width="440" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;display-report&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="450" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;NO&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="360" y="452.5" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="425" width="50" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="OEbYoKxUWS02Nmw_MQ6T-19" value="&lt;span style=&quot;font-size: 18px&quot;&gt;display failed test case in allure report&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="610" y="465" width="320" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="RFTHflH9JAZJq0lEbl_8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RFTHflH9JAZJq0lEbl_8-1" target="OEbYoKxUWS02Nmw_MQ6T-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RFTHflH9JAZJq0lEbl_8-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;display-report&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
