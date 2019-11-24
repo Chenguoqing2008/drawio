@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-24T03:59:53.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QqTUwvm_POPYY54m7Iwh" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-24T04:26:28.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="aGCnOyB8nc7KOoTx-HYw" version="12.2.9" type="github" pages="1">
   <diagram id="2sLXA-egUcJUYpdjkaR4" name="Page-1">
-    <mxGraphModel dx="920" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="VvFyoILJaAMxfH2BKJjY-32" value="30工作日书面处理决定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="539.5" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VvFyoILJaAMxfH2BKJjY-34" value="检验、检测、鉴定、专家评审时间不计算在内" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="559.5" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
