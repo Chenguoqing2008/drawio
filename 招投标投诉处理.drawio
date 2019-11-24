@@ -1,1 +1,19 @@
-<mxfile host="www.draw.io" modified="2019-11-24T03:37:26.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.2.9" etag="qpEAWYAmLQ2Y_NBGCKGm" type="github"><diagram id="2sLXA-egUcJUYpdjkaR4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-24T03:41:26.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="srGcpP5W2c7sCxloC4AH" version="12.2.9" type="github" pages="1">
+  <diagram id="2sLXA-egUcJUYpdjkaR4" name="Page-1">
+    <mxGraphModel dx="782" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="VvFyoILJaAMxfH2BKJjY-1" value="投标方" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="100" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="VvFyoILJaAMxfH2BKJjY-2" value="招标方" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="100" height="380" as="geometry"/>
+        </mxCell>
+        <mxCell id="VvFyoILJaAMxfH2BKJjY-3" value="行政监督部门" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="100" height="370" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
