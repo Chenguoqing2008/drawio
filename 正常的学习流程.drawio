@@ -1,35 +1,38 @@
-<mxfile host="www.draw.io" modified="2019-11-24T04:52:35.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="q83jR-Aq8U_a-xMFIR66" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-24T05:00:09.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zYp9PO0j6lwbJ_-pat5S" version="12.2.9" type="github" pages="1">
   <diagram id="MTuKY3IIE5yhsqu855IO" name="Page-1">
-    <mxGraphModel dx="920" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="250" width="390" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="480" height="120" as="geometry"/>
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="100" width="610" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-1" value="早晨大概浏览今天要学习的视频章节，有时间的话录语音笔记" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-1" value="早晨大概浏览今天要学习的视频章节，有时间的话录语音笔记" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="130" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-2" value="工作日" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-2" value="工作日" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="140" width="70" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-3" value="上班下班路上看视频1.25倍数看，2倍数复习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-3" value="上班下班路上看视频1.25倍数看，2倍数复习" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="130" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-4" value="晚上做题看书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="130" width="120" height="60" as="geometry"/>
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-4" value="晚上做题看书" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="130" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-5" value="周末" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-5" value="周末" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="70" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-6" value="复习这周学习的内容为主，学习新内容为辅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-6" value="复习这周学习的内容为主，学习新内容为辅" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="270" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="dZQ6U5_dljSOXEF4BZyG-7" value="复习旧内容&amp;nbsp; 学习新内容&lt;br&gt;时间&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;7&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dZQ6U5_dljSOXEF4BZyG-7" value="复习旧内容&amp;nbsp; 学习新内容&lt;br&gt;时间&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;7&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="270" width="170" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="yuIkd8trNgKncsFZR4Ox-1" value="印象笔记中有的截图再录一遍声音，不影响，这样可以加深记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="130" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
