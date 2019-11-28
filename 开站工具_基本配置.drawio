@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-28T07:33:36.496Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="SaWBXoSVkX0Va0KEC2Xe" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-28T07:34:27.921Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="T_X3784_RSBjlyO8kA5a" version="12.3.2" type="github" pages="1">
   <diagram id="B5zunyUqvBXYCdQxp3WS" name="Page-1">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -62,20 +62,22 @@
         <mxCell id="dGBUTptpqReODm5c73dv-8" value="设备重启后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="630" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="dGBUTptpqReODm5c73dv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dGBUTptpqReODm5c73dv-9" target="dGBUTptpqReODm5c73dv-10">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="dGBUTptpqReODm5c73dv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dGBUTptpqReODm5c73dv-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="880" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dGBUTptpqReODm5c73dv-9" value="登陆设备检查srv_trx_conf文件里参数是否与请求参数一致" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="720" width="120" height="60" as="geometry"/>
+          <mxGeometry x="280" y="720" width="120" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="dGBUTptpqReODm5c73dv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dGBUTptpqReODm5c73dv-10" target="dGBUTptpqReODm5c73dv-13">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="dGBUTptpqReODm5c73dv-10" value="还原srv_trx.conf文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="820" width="120" height="60" as="geometry"/>
+          <mxGeometry x="190" y="880" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="dGBUTptpqReODm5c73dv-13" value="重启设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="910" width="120" height="60" as="geometry"/>
+          <mxGeometry x="190" y="970" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
