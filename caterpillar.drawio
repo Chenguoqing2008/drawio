@@ -1,1 +1,49 @@
-<mxfile host="www.draw.io" modified="2019-12-03T14:10:06.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.6" etag="nWhnUuRoJXxEXLo0X7-3" type="github"><diagram id="O_Mb1Z1oYosHWulNeuBh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-03T14:23:12.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5ElwhuBOzyyjgW6FSvX8" version="12.3.6" type="github" pages="1">
+  <diagram id="O_Mb1Z1oYosHWulNeuBh" name="Page-1">
+    <mxGraphModel dx="782" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNdPc0v2a69JPHsaWGF1-1" target="PNdPc0v2a69JPHsaWGF1-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-1" value="准备练习的字" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNdPc0v2a69JPHsaWGF1-2" target="PNdPc0v2a69JPHsaWGF1-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-2" value="观察字的结构，各笔划及相对位置，疏密" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PNdPc0v2a69JPHsaWGF1-3" target="PNdPc0v2a69JPHsaWGF1-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-3" value="分析，练习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNdPc0v2a69JPHsaWGF1-4" target="PNdPc0v2a69JPHsaWGF1-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-4" value="总结，那里写不好的，重点练习那里" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNdPc0v2a69JPHsaWGF1-5" target="PNdPc0v2a69JPHsaWGF1-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-5" value="能够写出自认为还可以接受的字" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.561;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PNdPc0v2a69JPHsaWGF1-6" target="PNdPc0v2a69JPHsaWGF1-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-6" value="往后再练习三天" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PNdPc0v2a69JPHsaWGF1-7" value="字封存，以备以后复习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
