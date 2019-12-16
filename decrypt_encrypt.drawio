@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T03:43:27.486Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="1Ak4yYdJmnKhJ-mTXuiR" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T03:45:51.542Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="b1woxezo58_ftVbTPUU6" version="12.4.2" type="github" pages="1">
   <diagram id="ay9v9nCHAeEU4v66ycQ9" name="Page-1">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="7Gtm1h8T_FkD7gW4zYN4-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="280" width="20" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-20" value="本地编辑软件&lt;br&gt;已配置解密权限" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-20" value="本地编辑软件&lt;br&gt;已配置解密权限" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="305" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="7Gtm1h8T_FkD7gW4zYN4-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -112,7 +112,7 @@
         <mxCell id="7Gtm1h8T_FkD7gW4zYN4-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="540" width="20" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-34" value="此编译工具&lt;br&gt;已经配置解密权限" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-34" value="此编译工具&lt;br&gt;已经配置解密权限" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="565" width="110" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="7Gtm1h8T_FkD7gW4zYN4-38" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -121,7 +121,10 @@
             <mxPoint x="490" y="580" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-39" value="4.&amp;nbsp;解密并编辑后的文件放到PC机的某特殊目录下" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Gtm1h8T_FkD7gW4zYN4-39" target="7Gtm1h8T_FkD7gW4zYN4-43">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-39" value="4.&amp;nbsp;解密并编译后的文件放到PC机的某特殊目录下" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="430" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="7Gtm1h8T_FkD7gW4zYN4-40" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Gtm1h8T_FkD7gW4zYN4-32" target="7Gtm1h8T_FkD7gW4zYN4-39">
@@ -133,8 +136,11 @@
         <mxCell id="7Gtm1h8T_FkD7gW4zYN4-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="425" width="20" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-42" value="需在凤凰卫客户端配&lt;br&gt;置其逃避客户端的文件扫描" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-42" value="需在凤凰卫客户端配&lt;br&gt;置其逃避客户端的文件扫描" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="440" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-43" value="5.&amp;nbsp;自动化集成工具从此目录下取项目代码，执行相应构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="430" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
