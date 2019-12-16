@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T03:31:09.424Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="qj3a62uyDdCZi8yhMjVt" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T03:36:10.929Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="7AqJf0b5Y8Nt6eTsPSNl" version="12.4.2" type="github" pages="1">
   <diagram id="ay9v9nCHAeEU4v66ycQ9" name="Page-1">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -48,6 +48,42 @@
         </mxCell>
         <mxCell id="7Gtm1h8T_FkD7gW4zYN4-11" value="5.&amp;nbsp; PC上新增文件被加密" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-12" value="代码托管工具SVN/GIT等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-13" value="1.&amp;nbsp; 上传加密的文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="550" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="530" as="sourcePoint"/>
+            <mxPoint x="245" y="480" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-15" value="2.&amp;nbsp; 下载加密的文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="480" as="sourcePoint"/>
+            <mxPoint x="430" y="540" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-17" value="本地编辑软件时实解密并编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="630" width="20" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-20" value="本地编辑软件&lt;br&gt;已配置解密权限" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="675" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Gtm1h8T_FkD7gW4zYN4-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="620" as="sourcePoint"/>
+            <mxPoint x="420" y="650" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
