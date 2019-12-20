@@ -1,14 +1,26 @@
-<mxfile host="www.draw.io" modified="2019-12-20T09:43:59.172Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="7HHWvuIZiZNfloYLUAl4" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-20T09:45:29.018Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="4a5lwyJCXZSV_oH8rlcE" version="12.4.3" type="github" pages="1">
   <diagram id="uhHw3zCrm-QPPRCgiIeY" name="Page-1">
     <mxGraphModel dx="1360" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="JK8cOYmX28wPlbiRzjRJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="300" height="120" as="geometry"/>
+        </mxCell>
         <mxCell id="JK8cOYmX28wPlbiRzjRJ-1" value="SVN&amp;nbsp;代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="320" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="JK8cOYmX28wPlbiRzjRJ-2" value="Jenkins&amp;nbsp;运行Sikuli&amp;nbsp;脚本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="160" width="120" height="60" as="geometry"/>
+          <mxGeometry x="420" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JK8cOYmX28wPlbiRzjRJ-4" value="宿主机PC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JK8cOYmX28wPlbiRzjRJ-5" value="" style="endArrow=classic;html=1;entryX=0.558;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JK8cOYmX28wPlbiRzjRJ-3" target="JK8cOYmX28wPlbiRzjRJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="260" as="sourcePoint"/>
+            <mxPoint x="270" y="210" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
