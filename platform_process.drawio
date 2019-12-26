@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2019-12-26T08:12:04.731Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="kg8dg56ay_MlzLc5M8m9" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-26T08:19:11.739Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="bwhubLaHWNHSwoY-OWLm" version="12.4.3" type="github" pages="1">
   <diagram id="DtKtHtbxeq_ghaz5WyAQ" name="Page-1">
     <mxGraphModel dx="1360" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="g2pXE5J7bdPW5n_6ziGJ-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1100" width="335" height="120" as="geometry"/>
+        </mxCell>
         <mxCell id="g2pXE5J7bdPW5n_6ziGJ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="130" width="810" height="250" as="geometry"/>
         </mxCell>
@@ -147,6 +150,12 @@
         </mxCell>
         <mxCell id="g2pXE5J7bdPW5n_6ziGJ-53" value="&lt;font style=&quot;font-size: 20px&quot;&gt;{配置文件名:[路径,配置文件图名变量名]}&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="790" y="897.5" width="380" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="g2pXE5J7bdPW5n_6ziGJ-62" value="&lt;font style=&quot;font-size: 20px&quot;&gt;自动化脚本&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1110" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="g2pXE5J7bdPW5n_6ziGJ-63" value="&lt;font style=&quot;font-size: 15px&quot;&gt;1. sikuli&amp;nbsp;脚本&lt;br&gt;2.&amp;nbsp;测试服务器上修改基本配置参数脚本；&lt;br&gt;3.&amp;nbsp;冒烟测试自动化脚本；&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1150" width="300" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
