@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T09:51:59.688Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="o1sC2WdfE7PALL3wv-dn" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-08T02:15:05.159Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="YyPaR3aPRRcX1YK8WtcD" version="12.4.9" type="github">
   <diagram id="37CvHzea32pG5xBqfoUi" name="Page-1">
     <mxGraphModel dx="1360" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="xKirvXIODHRyzetSx6ma-10" value="拷贝临时文件夹到目标文件夹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xKirvXIODHRyzetSx6ma-20" value="三个目录dev, test, live，以及一个done的目录" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="940" y="70" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
