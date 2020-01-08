@@ -1,68 +1,83 @@
-<mxfile host="www.draw.io" modified="2020-01-08T02:15:56.605Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="IRi5egWvOB0jlnHYuBzU" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-08T02:38:11.858Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="FuLz5nW_lkf_j7MF6yIG" version="12.4.9" type="github">
   <diagram id="37CvHzea32pG5xBqfoUi" name="Page-1">
     <mxGraphModel dx="1360" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="xKirvXIODHRyzetSx6ma-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-1" target="xKirvXIODHRyzetSx6ma-10">
+        <mxCell id="xKirvXIODHRyzetSx6ma-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-1" target="xKirvXIODHRyzetSx6ma-10" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-1" value="两个配置文件夹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-1" value="两个配置文件夹" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="70" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-2" target="xKirvXIODHRyzetSx6ma-3">
+        <mxCell id="xKirvXIODHRyzetSx6ma-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-2" target="xKirvXIODHRyzetSx6ma-3" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-2" value="通过difflib找出两个文件夹中不同的文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-2" value="通过difflib找出两个文件夹中不同的文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="270" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-3" target="xKirvXIODHRyzetSx6ma-4">
+        <mxCell id="xKirvXIODHRyzetSx6ma-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-3" target="xKirvXIODHRyzetSx6ma-4" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-3" value="判断文件类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-3" value="判断文件类型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="360" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-4" target="xKirvXIODHRyzetSx6ma-5">
+        <mxCell id="xKirvXIODHRyzetSx6ma-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-4" target="xKirvXIODHRyzetSx6ma-5" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-4" value="通过不同方法加载两个文件夹中不同的类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-4" value="通过不同方法加载两个文件夹中不同的类型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="450" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-5" target="xKirvXIODHRyzetSx6ma-6">
+        <mxCell id="xKirvXIODHRyzetSx6ma-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-5" target="xKirvXIODHRyzetSx6ma-6" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-5" value="把内容转换为dict" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-5" value="把内容转换为dict" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-6" target="xKirvXIODHRyzetSx6ma-7">
+        <mxCell id="xKirvXIODHRyzetSx6ma-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-6" target="xKirvXIODHRyzetSx6ma-7" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-6" value="dict排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-6" value="dict排序" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-7" target="xKirvXIODHRyzetSx6ma-8">
+        <mxCell id="xKirvXIODHRyzetSx6ma-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-7" target="xKirvXIODHRyzetSx6ma-8" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-7" value="dict -&amp;gt; set" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-7" value="dict -&amp;gt; set" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="460" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-8" target="xKirvXIODHRyzetSx6ma-9">
+        <mxCell id="xKirvXIODHRyzetSx6ma-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-8" target="xKirvXIODHRyzetSx6ma-9" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-8" value="找到个set中相同的dict&amp;nbsp;键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-8" value="找到个set中相同的dict&amp;nbsp;键" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="370" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-9" value="更新临时目录中某个配置文件的配置项的值为发布目录中相同文件的 set的键值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-9" value="更新临时目录中某个配置文件的配置项的值为发布目录中相同文件的 set的键值" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="280" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKirvXIODHRyzetSx6ma-10" target="xKirvXIODHRyzetSx6ma-2">
+        <mxCell id="xKirvXIODHRyzetSx6ma-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKirvXIODHRyzetSx6ma-10" target="xKirvXIODHRyzetSx6ma-2" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-10" value="拷贝临时文件夹到目标文件夹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-10" value="拷贝临时文件夹到目标文件夹" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="xKirvXIODHRyzetSx6ma-20" value="三个目录dev, test, live，以及一个done的目录" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="xKirvXIODHRyzetSx6ma-20" value="三个目录dev, test, live，以及一个done的目录" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="940" y="70" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="H5AnM2JZmHamrWz5e1bE-1" value="运行脚本传入参数局点与环境" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="940" y="150" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="H5AnM2JZmHamrWz5e1bE-2" value="拷贝相应文件到对应目录&lt;br&gt;test&amp;nbsp; dev-&amp;gt;test&lt;br&gt;live&amp;nbsp; test-&amp;gt;live&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="940" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="H5AnM2JZmHamrWz5e1bE-3" value="通过局点取不同的配置文件" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="940" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="H5AnM2JZmHamrWz5e1bE-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="290" width="20" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="H5AnM2JZmHamrWz5e1bE-5" value="配置文件包括&lt;br&gt;1.&amp;nbsp;配置项；&lt;br&gt;2. test列；&lt;br&gt;3. live列" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1113" y="314" width="90" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
