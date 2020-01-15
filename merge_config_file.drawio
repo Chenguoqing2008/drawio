@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T02:20:58.575Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="tp5D0CG4CXl3NAKFqtlZ" version="12.5.3" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T03:01:12.310Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="CgDpPCXk8-nRsYj-d9v3" version="12.5.3" type="github">
   <diagram id="bgQSBVd5bKTp2rNxC6un" name="Page-1">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -8,46 +8,52 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="200" width="360" height="240" as="geometry"/>
+          <mxGeometry x="610" y="270" width="360" height="240" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-1" value="开发包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="230" width="120" height="60" as="geometry"/>
+          <mxGeometry x="640" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-2" target="zs5KtHsANHAHN5NYuHnN-1">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-2" value="测试包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="230" width="120" height="60" as="geometry"/>
+          <mxGeometry x="820" y="300" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-3" value="合并配置文件&lt;br&gt;新的测试包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="360" width="120" height="60" as="geometry"/>
+          <mxGeometry x="720" y="430" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-4" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-1" target="zs5KtHsANHAHN5NYuHnN-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="380" as="sourcePoint"/>
-            <mxPoint x="680" y="330" as="targetPoint"/>
+            <mxPoint x="630" y="450" as="sourcePoint"/>
+            <mxPoint x="680" y="400" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-5" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-2" target="zs5KtHsANHAHN5NYuHnN-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="510" as="sourcePoint"/>
-            <mxPoint x="900" y="460" as="targetPoint"/>
+            <mxPoint x="850" y="580" as="sourcePoint"/>
+            <mxPoint x="900" y="530" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zs5KtHsANHAHN5NYuHnN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-7" target="zs5KtHsANHAHN5NYuHnN-8">
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-7" target="zs5KtHsANHAHN5NYuHnN-33">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-7" value="测试环境机器停止服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="90" width="120" height="60" as="geometry"/>
+          <mxGeometry x="730" y="70" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-11" value="合并配置文件，替换部署包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="380" width="70" height="50" as="geometry"/>
+          <mxGeometry x="630" y="450" width="70" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="zs5KtHsANHAHN5NYuHnN-12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;合并配置文件原则：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 测试环境中有的配置项，取测试环境的值；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2.&amp;nbsp;开发包中新增加的配置项，合并到测试环境中相应的配置文件中；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3.&amp;nbsp;开发包中新增加的配置文件，增加到测试环境中相对应的目录下；&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="80" width="230" height="130" as="geometry"/>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;合并配置文件原则：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 测试环境中有的配置项，取测试环境的值；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2.&amp;nbsp;开发包中新增加的配置项，保持不变；&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="150" width="230" height="130" as="geometry"/>
         </mxCell>
-        <mxCell id="zs5KtHsANHAHN5NYuHnN-13" value="重启测试环境服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="500" width="120" height="60" as="geometry"/>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-13" target="zs5KtHsANHAHN5NYuHnN-37">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-13" value="删除测试包，部署开发包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="570" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="190" width="200" height="250" as="geometry"/>
+          <mxGeometry x="290" y="260" width="200" height="250" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-19" target="zs5KtHsANHAHN5NYuHnN-20">
           <mxGeometry relative="1" as="geometry"/>
@@ -56,19 +62,34 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-19" value="开发目录加密的代码与配置文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="350" width="120" height="60" as="geometry"/>
+          <mxGeometry x="330" y="420" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-20" target="zs5KtHsANHAHN5NYuHnN-1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-20" value="开发目录解密的代码与配置文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="120" height="60" as="geometry"/>
+          <mxGeometry x="330" y="300" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-25" value="解密配置文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="305" width="90" height="25" as="geometry"/>
+          <mxGeometry x="400" y="375" width="90" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="zs5KtHsANHAHN5NYuHnN-28" value="开发环境 IDE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="120" height="60" as="geometry"/>
+          <mxGeometry x="100" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-30" value="SVN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-32" value="合并配置项" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="290" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zs5KtHsANHAHN5NYuHnN-33" target="zs5KtHsANHAHN5NYuHnN-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-33" value="备份测试包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zs5KtHsANHAHN5NYuHnN-37" value="重启测试环境服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="670" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
