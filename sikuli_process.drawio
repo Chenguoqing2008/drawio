@@ -1,1 +1,37 @@
-<mxfile host="www.draw.io" modified="2020-01-16T06:56:51.848Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" version="12.5.4" etag="R3ztuGNXwKK8TWcX7F9l" type="github"><diagram id="QQlop4MBkRYSdoxbpL7e">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-16T07:02:11.688Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="vifuZ3BGhfMDIbnApsrA" version="12.5.4" type="github">
+  <diagram id="QQlop4MBkRYSdoxbpL7e" name="Page-1">
+    <mxGraphModel dx="1360" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pShEm1V-gDMomaXSzM8H-1" target="pShEm1V-gDMomaXSzM8H-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Jenkins&amp;nbsp;调用执行机执&lt;br&gt;行maven&amp;nbsp;编译打包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="195" width="150" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pShEm1V-gDMomaXSzM8H-2" target="pShEm1V-gDMomaXSzM8H-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;打开加密的配置文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pShEm1V-gDMomaXSzM8H-3" target="pShEm1V-gDMomaXSzM8H-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;拷贝配置文件内容到.au3文件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="150" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pShEm1V-gDMomaXSzM8H-4" target="pShEm1V-gDMomaXSzM8H-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-4" value="&lt;span style=&quot;font-size: 14px&quot;&gt;.au3文件重新命名成原配置文件后缀&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pShEm1V-gDMomaXSzM8H-5" value="&lt;span style=&quot;font-size: 14px&quot;&gt;上传部署包到服务器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="140" height="70" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
