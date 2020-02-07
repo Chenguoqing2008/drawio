@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-07T02:01:19.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="7KZH9a5xGbQJIAA37aU-" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T02:06:13.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="BRfkWoXXTFI1KSO3HUwW" version="12.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="920" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -141,6 +141,24 @@
         <mxCell id="ShGUxtKquUQzhDYGWwql-9" value="自己突然的想法" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1540" y="710" width="100" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShGUxtKquUQzhDYGWwql-30" target="kzwmuXA0MkF34zWOYLQk-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShGUxtKquUQzhDYGWwql-30" target="kzwmuXA0MkF34zWOYLQk-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShGUxtKquUQzhDYGWwql-30" target="kzwmuXA0MkF34zWOYLQk-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShGUxtKquUQzhDYGWwql-30" target="kzwmuXA0MkF34zWOYLQk-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShGUxtKquUQzhDYGWwql-30" target="kzwmuXA0MkF34zWOYLQk-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ShGUxtKquUQzhDYGWwql-30" target="kzwmuXA0MkF34zWOYLQk-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ShGUxtKquUQzhDYGWwql-30" value="意外情况，冷静处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1330" y="1520" width="100" height="40" as="geometry"/>
         </mxCell>
@@ -171,6 +189,24 @@
         </mxCell>
         <mxCell id="kzwmuXA0MkF34zWOYLQk-4" value="计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1527.5" y="940" width="45" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-17" value="期望的结果是什么" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1115" y="1600" width="60" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-18" value="那些不利条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1215" y="1600" width="60" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-19" value="那些有利条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1315" y="1600" width="60" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-20" value="最坏的结果是什么" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1405" y="1600" width="60" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-21" value="向谁寻求帮助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1495" y="1600" width="60" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="kzwmuXA0MkF34zWOYLQk-22" value="如何做" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1585" y="1600" width="60" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
