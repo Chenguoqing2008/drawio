@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-11T07:52:32.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="mm183uHgnDGdQzGHDCPd" version="12.6.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-11T07:53:57.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="MVVEUJ2uAusZatWTiwZS" version="12.6.7" type="github">
   <diagram id="cZXRidXEHzPux_JF5TD2" name="Page-1">
     <mxGraphModel dx="782" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="160" y="110" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="doo729Usdz_mEmaZW31Z-8" value="横线、扛肩" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="doo729Usdz_mEmaZW31Z-8" value="横线、扛肩，有一定斜度" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="doo729Usdz_mEmaZW31Z-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -45,6 +45,9 @@
             <mxPoint x="300" y="130" as="sourcePoint"/>
             <mxPoint x="360" y="130" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="doo729Usdz_mEmaZW31Z-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="10" height="10" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
