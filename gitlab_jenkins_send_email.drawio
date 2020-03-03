@@ -1,44 +1,50 @@
-<mxfile host="www.draw.io" modified="2020-02-28T08:51:03.321Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="Rkjnj57-RMAHupWTnYoC" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-03T01:27:51.380Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="dSOYKvZlhjewVAgSM21O" version="12.7.9" type="github">
   <diagram id="t_jyyt27WraNLwddiDdV" name="Page-1">
-    <mxGraphModel dx="1360" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-1" value="gitlab&amp;nbsp;自动化构建与冒烟测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="210" height="70" as="geometry" />
+        <mxCell id="d6OzAuvMIbraJWWtqtYI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-jKS4rma4LP1D-NW9i_T-1" target="d6OzAuvMIbraJWWtqtYI-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-2" value="触发Jenkins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="-jKS4rma4LP1D-NW9i_T-1" value="gitlab&amp;nbsp;自动化构建与冒烟测试" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="60" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-jKS4rma4LP1D-NW9i_T-1" target="-jKS4rma4LP1D-NW9i_T-2">
+        <mxCell id="-jKS4rma4LP1D-NW9i_T-2" value="触发Jenkins job" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d6OzAuvMIbraJWWtqtYI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-jKS4rma4LP1D-NW9i_T-5" target="-jKS4rma4LP1D-NW9i_T-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-jKS4rma4LP1D-NW9i_T-5" value="Allure report" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-jKS4rma4LP1D-NW9i_T-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-jKS4rma4LP1D-NW9i_T-2" target="-jKS4rma4LP1D-NW9i_T-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="280" as="sourcePoint" />
-            <mxPoint x="120" y="230" as="targetPoint" />
+            <mxPoint x="140" y="490" as="sourcePoint" />
+            <mxPoint x="190" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-4" value="失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="220" width="40" height="20" as="geometry" />
+        <mxCell id="-jKS4rma4LP1D-NW9i_T-7" value="生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="250" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-5" value="Allure report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="-jKS4rma4LP1D-NW9i_T-8" value="Jenkins&amp;nbsp;发邮件知会相应人员" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-jKS4rma4LP1D-NW9i_T-2" target="-jKS4rma4LP1D-NW9i_T-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="400" as="sourcePoint" />
-            <mxPoint x="190" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="d6OzAuvMIbraJWWtqtYI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6OzAuvMIbraJWWtqtYI-1" target="d6OzAuvMIbraJWWtqtYI-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-7" value="生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="40" height="20" as="geometry" />
+        <mxCell id="d6OzAuvMIbraJWWtqtYI-1" value="gitlab pipeline执行完后发邮件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-8" value="Jenkins&amp;nbsp;发邮件知会相应人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="d6OzAuvMIbraJWWtqtYI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6OzAuvMIbraJWWtqtYI-2" target="-jKS4rma4LP1D-NW9i_T-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-jKS4rma4LP1D-NW9i_T-9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-jKS4rma4LP1D-NW9i_T-5" target="-jKS4rma4LP1D-NW9i_T-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="420" as="sourcePoint" />
-            <mxPoint x="60" y="370" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="d6OzAuvMIbraJWWtqtYI-2" value="jenkins&amp;nbsp;插件扫描邮件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d6OzAuvMIbraJWWtqtYI-9" value="发送邮件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
