@@ -1,1 +1,22 @@
-<mxfile host="www.draw.io" modified="2020-08-19T02:06:05.931Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" version="13.6.0" etag="ZZVf7JvpDEf2HONyFs8n" type="github"><diagram id="spBM4fKEu70AtPi8lwkX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-08-19T02:10:44.532Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="mqV2jzJsVywZwHLZ8XMz" version="13.6.0" type="github">
+  <diagram id="spBM4fKEu70AtPi8lwkX" name="Page-1">
+    <mxGraphModel dx="1360" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QW0zYoQCdDjwIxLi3vjU-1" value="摄像头 1分钟比如&lt;br&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 9.0pt ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;[12:05:00~12:06:00)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QW0zYoQCdDjwIxLi3vjU-2" value="码&lt;font face=&quot;宋体&quot;&gt;前后两分钟&lt;/font&gt;比如&lt;br&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 9.0pt ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;[12:03:00~12:07:00)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QW0zYoQCdDjwIxLi3vjU-4" value="图切片[R1,R2,R3...]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QW0zYoQCdDjwIxLi3vjU-5" value="码切片[I1,I2,I3...]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-1060" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
